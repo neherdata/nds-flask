@@ -5,7 +5,7 @@ gunicorn==18.0
 Jinja2==2.11.3
 MarkupSafe==0.18
 SQLAlchemy==0.9.3
-Werkzeug==0.9.4
+Werkzeug==3.1.9
 coverage==3.7.1
 ecdsa==0.19.2
 itsdangerous==0.23
